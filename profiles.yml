@@ -4,7 +4,7 @@ jaffle_shop:
     dev:
       type: bigquery
       method: service-account
-      keyfile: /Users/manasiadawatkar/Documents/DBT/dbt-tutorial-360301-35e2f8a7ff7f.json
+      keyfile: /secrets/dbt-service-keyfile
       project: dbt-tutorial-360301
       dataset: dbt_madawatkar
       threads: 4
