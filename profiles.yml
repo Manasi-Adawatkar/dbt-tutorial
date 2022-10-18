@@ -5,7 +5,7 @@ jaffle_shop:
       type: bigquery
       method: service-account
       keyfile: /secrets/dbt-service-keyfile
-      project: dbt-tutorial-360301
+      project: dbt-project-365823
       dataset: dbt_madawatkar
       threads: 4
       timeout_seconds: 300
