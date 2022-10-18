@@ -9,5 +9,5 @@ jaffle_shop:
       dataset: dbt_madawatkar
       threads: 4
       timeout_seconds: 300
-      location: us-central1
+      location: US
       priority: interactive
